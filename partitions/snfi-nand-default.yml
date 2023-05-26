@@ -24,5 +24,5 @@
 snfi-nand:
   bl2_start: 0x0
   rf_start: 0x180000
-  fip_start: 0x380000
-  kernel_start: 0x580000
+  fip_start: 0x680000
+  kernel_start: 0x2880000
